@@ -1,0 +1,113 @@
+{
+  "Ads":
+  [
+    {
+      "status":"1",
+      "link":"http://",
+      "pengaturan_iklan":"3",
+      "admob_open_ads":"ca-app-pub-505005005-50505050",
+      "admob_banner":"ca-app-pub-505005005-50505050",
+      "admob_inter":"ca-app-pub-505005005-50505050",
+      "admob_native":"ca-app-pub-505005005-50505050",
+      "interval":2,
+      "fan_inter":"5050505050505050",
+      "fan_banner":"5050505050505050",
+      "fan_native":"5050505050505050",
+      "startappid":"206549938",
+      "mopub_banner":"223552",
+      "mopub_inter":"223552",
+      "unityID":"02165",
+      "unity_inter":"02165",
+      "unity_banner":"02165"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"BoyFriend",
+      "skin_url":"https://lh3.googleusercontent.com/lP0n0XNq-PqTwS_Nb6i7OmsvVrAorEzRRO6FuMU9cWry5s2mPBuMp3sTzEvrlLVI5KjaoqBZ05zqQw-B28PYQaTG1pKGOS9PC2BM",
+      "view_skin":"https://lh3.googleusercontent.com/Ve1BAbNWqlno7YoZczKDdpY-3jRv8n7MVaU8oi3dIGcsqukluXXtgudBpzwlTsIFtN6icC3wn87yhvOq25WLw5xfFLgqTBgr8A"
+    },
+    {
+      "id":2,
+      "nama_skin":"Ruv",
+      "skin_url":"https://lh3.googleusercontent.com/e1KH7GQrwuK8OqOeLbRhfVZN0UQNKKHNlO94rs_YSffXET9eHopUwpmAeqdyp0yAE_ffdLSY05tZ30oN0bKtc9lhhz2b7i2gGg",
+      "view_skin":"https://lh3.googleusercontent.com/ECoxGoSqo799DgiloG9A1ZVX6gx1Rok-4VcocyL4A5lMy08CK3PB-A28vmanBQX1bLF5gk6CpHlCAECpO18TLHc3R_zLcCZ0KTWo"
+    },
+    {
+      "id":3,
+      "nama_skin":"Girlfriend",
+      "skin_url":"https://lh3.googleusercontent.com/vShPujE4MvddOc5pEihzYlW6n4Ygi2OrrCV1tbVkKuwcoK5-JVtmMQsBujcGoJAizZCPMM93TBgYIFHSgsbfHthczQ6eLqNYji4",
+      "view_skin":"https://lh3.googleusercontent.com/BbVrll5_xfTR36DJ1K_epIMhXbeg97b4iSe9dEUlFcmVPXNoyGQg0A2kOg9e9Rx8jVmp_erL7WeYR4-gHftcELOomFXMp-8_5-A"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"Selever FNF",
+      "skin_url":"https://lh3.googleusercontent.com/sI054MqNGebUE0TCNLjkTqdjPPmboktqyg-TDXz0ShYv4ioAGDGv7F0tnOXuqaijJfemSSvMUvxu0p1ighCsIkWad06tkxHl0qk",
+      "view_skin":"https://lh3.googleusercontent.com/fLRnB9jyCNQgi4IZ6y3kfrijNVDRpILT2yMouK6fk1ruaRxTbQF6pMS5_THywb_xZF5pa_St1we4KiPqMSaPQb9Z2e5eL6PaBA"
+    },
+    {
+      "id":5,
+      "nama_skin":"Fnf Garcello",
+      "skin_url":"https://lh3.googleusercontent.com/Y7iZOfxUT4lAAA_0b-1yGVBaYBNe0lCVupXgi8Bsdhux1lqkbS_kZQAI6HK2aC5CvGaWRhoqhM3mbCU07eRLK7YV5LaaEiFKSU0",
+      "view_skin":"https://lh3.googleusercontent.com/AThvbtNYRw41F7zSA_pbjMPqDrUF99Ab4lzh1-B0l4ljufSozap2BgkeIhRH4imXTkx07Pu9XKBKiiuRdRYpmp7b2JFArRoxdA"
+    },
+    {
+      "id":6,
+      "nama_skin":"Tricky",
+      "skin_url":"https://lh3.googleusercontent.com/UeO7l6gOy4EpM4Xs4401Go7wsbAsCdEqEgd9WnoHri3TJO16dBvTfRwUexAv9m4DJhkBSgDI_vHjDVDWy4fUaxHx3z8Rk6Isdc4",
+      "view_skin":"https://lh3.googleusercontent.com/VKCpDXM1tKt8GXZtH0CH2pgPBQ_tGevCBBWL1ZwS6RIyxHXfqT0Ae7FytgdfVE9wlKwQ3Hsjn53I5e41BQDFj1ap7IPHiOrh07Cz"
+    },
+    {
+      "id":7,
+      "nama_skin":"pico",
+      "skin_url":"https://lh3.googleusercontent.com/9vjixzSXUgUpyAQH6fDBBXmBwCwU88R_gaFJ4gYmSZm61jBMkCI3OYCa-TkxC1895Pzi7OQKMUm8a7p8Ldp2exMfhFByp8qcJjY",
+      "view_skin":"https://lh3.googleusercontent.com/5M0KlDvAxgnsm3Tw10qt0-qGnWR1MMWVmaYwMugaFqgVUDH6fQdqQ_IWODGdJO2vuTpoQ_WvDlrSZ6qrF0CsixbCtK_lclokpnc"
+    },
+    {
+      "id":8,
+      "nama_skin":"Sarvente FNF",
+      "skin_url":"https://lh3.googleusercontent.com/q-WSMJMZ5qmGhX9VXS8_DV7CMYqKR_2_v_a_wT09Wv9uRcIPvhczey0v8hpYJNbKfa3Gqep2yHhTSf9eGHqYxDYh8oaAhHmmtH2y",
+      "view_skin":"https://lh3.googleusercontent.com/HYW_K61ymBV4OawXY3Mr5-ebaS-XyGRV4Ypcw7b8pn7Yh3jXts4RANZZoLmS7PpYuLuGQ2n3Sj3msjmBU7wgo3Qg1RVCf09aavSS"
+    },
+    {
+      "id":9,
+      "nama_skin":"AGOTI",
+      "skin_url":"https://lh3.googleusercontent.com/Sbd6-6mDo0n--ZoekSj1MtsurYgHya3lFonIpNClTnCX2InAnr6uZbVC90jP_vEd84yNEmqlF5-r2YZGpgFG8g4Ztxz_-fJqPdg",
+      "view_skin":"https://lh3.googleusercontent.com/w3VBoqAnU8wpAGiq0HKcHrQoe19kYkpM7ztZObPo6Vutp9jxAn1C0ZcS30dqoe2veZpvE7zd99DFtHk7rn4vv11ihCOHtqfNJCY"
+    },
+
+    {
+      "id":10,
+      "nama_skin":"Whitty",
+      "skin_url":"https://lh3.googleusercontent.com/k8SvOTYvryDsApGn5Ltt9BpvW1TNr-l8CjWVpJ3EK5T6kIBJlb1HiSXPa0LiqtxKC7HQi6ZZUHzktZ_r90sQJ4Czi57u2_G1Tkk",
+      "view_skin":"https://lh3.googleusercontent.com/SHI0UPgOvPB_Up8LNNVgyvbtzSXMmSoxdg0amA_oc2GM5s3h2xOtgNIS6Qm1SiacbXMSRYsS46bNsSaVH_07oRidpzZya2mfWfw"
+    },
+    {
+      "id":11,
+      "nama_skin":"Demon Sarvente",
+      "skin_url":"https://lh3.googleusercontent.com/Uab1cJr0vojYMTIUi1tJXa2NBlJ1if-SUGW5UBvaKqSB9tFnmgAMhLPWblMoVyQHMWOGGc7kNVp_MLyIqCoYcVtPYhhLVsBh31gp",
+      "view_skin":"https://lh3.googleusercontent.com/-KN0DCsgghFO_A5wUzs0TzbI5rXqJS6Xn-ACOZaF84M1gIWAinDy89Krx0XdyfDPevg7XPPM_8IVMKddzn0rQweiIrAf0GAcLA"
+    },
+    {
+      "id":12,
+      "nama_skin":"Tabi",
+      "skin_url":"https://lh3.googleusercontent.com/56qCyjALO7ZL6YndX2TtlP4meWRsbZbvJ-Q4CHP649Y9J1K6j-T_AUHp_3v-1zgietltBxjhekJNEwZSx3AqugFv0fASBoDkDQ",
+      "view_skin":"https://lh3.googleusercontent.com/WgruD_X-omoatU1uSFz09pm3Y3KLQxPSMzt2KPEI3ZY_3oJd1uTukqnDWUP9Ru9omGd8j7YOHpW3HtC--IG6H8GXgG0rhnazHw"
+    }
+  ],
+  "Addons":
+  [
+    
+  ],
+  "Maps":
+  [
+   
+  ]
+}
