@@ -29,58 +29,34 @@
   [
     {
       "id":1,
-      "nama_skin":"Pico 1",
-      "skin_url":"https://lh3.googleusercontent.com/9vjixzSXUgUpyAQH6fDBBXmBwCwU88R_gaFJ4gYmSZm61jBMkCI3OYCa-TkxC1895Pzi7OQKMUm8a7p8Ldp2exMfhFByp8qcJjY",
-      "view_skin":"https://lh3.googleusercontent.com/5M0KlDvAxgnsm3Tw10qt0-qGnWR1MMWVmaYwMugaFqgVUDH6fQdqQ_IWODGdJO2vuTpoQ_WvDlrSZ6qrF0CsixbCtK_lclokpnc"
+      "nama_skin":"Hex 1",
+      "skin_url":"https://lh3.googleusercontent.com/Gg-s2WtTGxrQbYt5_Qydk0iWPUQcG2J26K34OeVdlQe73n5gHhjo1nDHqRKGtOyQMcaRU_4D1Vr1Q4tEb04F745SCVqlXkEBucK4",
+      "view_skin":"https://lh3.googleusercontent.com/03OsKzHuZMU8kuOmt-yMHI7FOwnegQMe00IbhJt9HfWQkIEkd6d7vb2Z3wNgDMbSx0eOvjkY9T1hevg9U_6PgpGp5L4xjdCy5gg"
     },
     {
       "id":2,
-      "nama_skin":"Pico 2",
-      "skin_url":"https://lh3.googleusercontent.com/TKenG1zPbjM0nTccL91Pv-wl3E95ucTUX6cSsZr9H3UaU9ViKEUi0lG5UWiXyf-cOqbsxZF3y6ojVjy80FA5_CS5EYoMVyhvxA",
-      "view_skin":"https://lh3.googleusercontent.com/KbpcUvvyEka05dh70jKqKZ_ypboPTJ3Ka7VoECoyS2K-9CAkwbvL_pw9L034mW0vzWPTD2ke3nIns6FfkrXQhN6fQeuCt_N--aTS"
+      "nama_skin":"Hex 2",
+      "skin_url":"https://lh3.googleusercontent.com/aQDQndZSbnw1RqSODpB84nFSes6tYP9Huqhqn3QEiE9GwKkA8d9FbHJf3sy3W3Nxxj2wqjn17gsDGwuB5vi8GBx1cIZDPp5FcMA",
+      "view_skin":"https://lh3.googleusercontent.com/-ekFm13ADlpAO6mOCwYKlRUlY9ig7s8oldAm6Q1CjkDi2eynO1VoNAHwCyNFqrnKdmh36owzd_9UjXFQoOP02bjNpzApOFXdUYXX"
     },
     {
       "id":3,
-      "nama_skin":"Pico 3",
-      "skin_url":"https://lh3.googleusercontent.com/vRd3-f46mM0S4j8IM7_Xbw4qx6TX3LSSV-Ju3tdCmeEOaJ9pH7SROA7CPMyPlhbaln6VMPa7Y-CgJEHifFHYom5t4DExeLAEgefI",
-      "view_skin":"https://lh3.googleusercontent.com/9dxan2HjJq3U-whquFZC8LZXQgIHQi0ntX4SXCWsyRMAJpww8yN-7pIaTiVgaiPKoJzH9Sm9fDmrMIxe00S2WLEwm71WtPv-Yh4U"
+      "nama_skin":"Hex 3",
+      "skin_url":"https://lh3.googleusercontent.com/FnN5AlFRp2xIYhGF_DlGJQbW4bWVqxFqYmj4G5HqqI7mGy3lYlhImjBeEkxM0vTM-1JA7Xg0-GZw8bYnJxFFNETw_o3l56O9z2A",
+      "view_skin":"https://lh3.googleusercontent.com/pOrHTckn0KhnXeuwu1a9ocOYJ8A7nWbhLA7lkLOhK1t6dhCNUUOrLNxrwJky8BqIbz3JgLbZWbqldldowcLn0iBJy4OvBreUz9E"
     },
 
     {
       "id":4,
-      "nama_skin":"Corrupted Pico",
-      "skin_url":"https://lh3.googleusercontent.com/ChyXOBPtKq7Ol2uqOBsJ8b20GQDgJs_RbL83rgYl5BKvxp_yNrTyu4AF3Np8EMt9ecN-1M9976Q9Gm6aHAabk_opHjscBPaG0Y0",
-      "view_skin":"https://lh3.googleusercontent.com/nibO6l-SOtkvcctsmkcErbmenfBtmH8aFsqtLA_9YsGs6_YCl0lIfbQ1znjP_bk9Ea0FN3rJI7FsI0Po30n3BVNof6-QwBSJG1I"
+      "nama_skin":"Hex 4",
+      "skin_url":"https://lh3.googleusercontent.com/ihhUK_imHR3vmbQ46wpTjLv1ixDOazZIPgj7qyBZJufn7E2bqbK2hy0rTnOoWMmE9h2j7g2z5cfFKpCEhqycMXTpkpw9kUhU5FkO",
+      "view_skin":"https://lh3.googleusercontent.com/bk3DjgQTIjUL4ExA4EseUaYngVtu3pLUGsew1FiPxhluux0J9zRLzpVGMtHWsQJBFqBPg0g5D6mBpLhzm5g_O1FSPvZ9ejvVQgg"
     },
     {
       "id":5,
-      "nama_skin":"Pico Peanut",
-      "skin_url":"https://lh3.googleusercontent.com/iZUCGVJfw7e5O1vVL2iqFZyPcA--_dxLbDMPpKjWryGTV5tOCE1ANRG6MjH1kSKE9Nn4eeWhboygBmG1w4yDBL8yd_HVoe1wy-SE",
-      "view_skin":"https://lh3.googleusercontent.com/5lvR1El7YMjI1rha1Ch8KvlDjli27hrYVS_mDasyXB7LPt-JWkXMX0iQPdSl40IWznlcJPiPGyDGQoefAT8r2gbzODpozoMJkqif"
-    },
-    {
-      "id":6,
-      "nama_skin":"Pico 4",
-      "skin_url":"https://lh3.googleusercontent.com/whMW3K3U4XpMAB0UY0yeIE7pLcewyG3pGjylqMY6Uzii-DOZdp_BYWs8ZEOjQGl87deN80nR-YsgXNkC7rUcIJ7uIacTNQF8tA",
-      "view_skin":"https://lh3.googleusercontent.com/b3tiFxRBsBrg0AxdcXDOuN7TOwMEJmkk7f1sdmp6ONFsaxmXWGQHyRZYpDjNKplexvzAcxDWcEBb9GUrtSieDb-FvEJMKEe18Q"
-    },
-    {
-      "id":7,
-      "nama_skin":"Pico Maid",
-      "skin_url":"https://lh3.googleusercontent.com/UCK8Mx1Gm5-orXEvxTm7qo3pCsbESsm8oxPuMdXEBKlRS6rdWyFrsOurXqStV4jIrGkcrsU-Jn3k83It3a76dLOC0cOLl9ITHg",
-      "view_skin":"https://lh3.googleusercontent.com/6RAl2ctUyEpdp_DzwbdHvcbHnVwQ0_SSgkjEjXl-C8Wn95IORVCUP6dfzhApWjwOFr_obQpPu4Ki3KXY5NaX_15auA-qr6Z1ghk"
-    },
-    {
-      "id":8,
-      "nama_skin":"Pico Cool",
-      "skin_url":"https://lh3.googleusercontent.com/dG4K2uI7LhLLNh-lheVBmeKokLSC_g4jSd709P4hNTvB-zuIc2SltDKGIZhF5hnmWPQGaIoSFUiqsNLq5l-e1HK0oGwGPlr-25I",
-      "view_skin":"https://lh3.googleusercontent.com/k49_FgsuWHFMVj8OLXSw_2hTsc7A32wkcQe-7Jk6Q3ClJthlvJDoIsgGtR_B2IsFoIE7Qyrb9ZGa6_L7YDbrvRCH_vNzbkwyJ0Hx"
-    },
-    {
-      "id":9,
-      "nama_skin":"Pico Boca",
-      "skin_url":"https://lh3.googleusercontent.com/E3RxJMup5QoPU5zwzs6ZXl6d8Sx72OX_yXreaMM3cEnTvQ54cPO027ZeyqW9eK9aYekbmvVRYxRLH-_PXRmyGQmiCCDslYU97g",
-      "view_skin":"https://lh3.googleusercontent.com/HneRX9O50tRdln7NM6fdWgmsI7MMHuHICjwCswtp4VsfjfO3M_wpS-pAuUDI2uqle9vpiy1n63KRgkxjTNgIH7ZP6EbELk9py8Q"
+      "nama_skin":"Hex 5",
+      "skin_url":"https://lh3.googleusercontent.com/JGReZrqgro2bXQRqs7FcR35AT1FrNEqKuUULod6b-DMNnx2A5i1jI_fc-dNtg_A-P_42-S9qLFoV2nIqyrfMTz61fc1tHCdQ5VI",
+      "view_skin":"https://lh3.googleusercontent.com/ulcZXUrPl60pMYDKlgTGQTQanH1BalXVyWZaL3emgSypdAfToMDfLRSJYmTL2owjFUcZ2R195ShR7OIEC2MuEDJj4nQ9AOvRDuie"
     }
   ],
   "Addons":
